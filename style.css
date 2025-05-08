@@ -404,6 +404,10 @@ body{
     padding: 20px;
 }
 
+.whats-new marquee{
+    height: 150px;
+}
+
 .whats-new p {
     margin-bottom: 10px;
     line-height: 1.5;
